@@ -18,6 +18,7 @@ permissions:
 
 env:
   REVIEW_FILE: ".github/steps/x-review.md"
+  ISSUE_TITLE_PREFIX: "Test"
 
 jobs:
   find_exercise:
